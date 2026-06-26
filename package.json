@@ -1,9 +1,10 @@
 {
-  "name": "my-portfolio-website",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "homepage": "https://charanshalen.github.io/my-portfolio",
+  "name": "my-portfolio",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  
+
 
   "scripts": {
     "dev": "vite",
